@@ -2,18 +2,5 @@
     "data_path": "data/CAISO",
     "timestep": 15,
     "resample": true,
-    "history_hour": 6,
-    "input_dim": 32,
-    "model_dim": 64,
-    "nhead": 4,
-    "num_encoder_layers": 3,
-    "num_decoder_layers": 3,
-    "dim_feedforward": 256,
-    "dropout": 0.1,
-    "output_dim": 1,
-    "learning_rate": 0.0001,
-    "batch_size": 128,
-    "num_epochs": 20,
-    "prediction_type": "load_power",
-    "zone": 1
+    "history_hour": 6
 }
